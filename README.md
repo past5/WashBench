@@ -1,6 +1,6 @@
-# SuReBench
+# WashBench
 
-SuReBench is a repository dedicated to the study of summarization quality and resilience in the presence of harmful content. This project utilizes various datasets and large language models (LLMs) to evaluate the impact of toxic and biased information on the summarization process.
+WashBench is a repository dedicated to the study of summarization quality and resilience in the presence of harmful content. This project utilizes various datasets and large language models (LLMs) to evaluate the impact of toxic and biased information on the summarization process.
 
 ## Methods
 
