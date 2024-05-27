@@ -57,11 +57,20 @@ To facilitate the reproduction of our results, we have made the datasets used in
 ## Files in Repository
 
 - **README.md**: This file containing information about the project.
+- **WashBench.ipynb**: Jupyter notebook for WashBench analysis.
+- **create_toxic_texts.ipynb**: Script for creating toxic articles.
 - **dailymail_generated_summaries_1000.csv**: Contains 1000 generated summaries.
 - **filtered_toxic_conv.csv**: Contains 5k toxic passages extracted from ToxicQAFinal.
+- **final_toxic_articles.csv**: Injected articles and their summaries.
+- **gpt_sentiment_scores.csv**: GPT model sentiment scores with added index.
 - **infected_samples_3.csv**: Sample of infected articles.
+- **injexted_summary_t_b.csv**: Injected summaries.
+- **llama_sentiment_scores.csv**: Sentiment scores from LLaMA and GPT models.
+- **pre_summary_tox_b_scores.csv**: Scores before summarization for toxicity.
+- **sentiment_analysis_results.csv**: VADER sentiment analysis results.
 - **test_filtered_toxic_conv.csv**: Test set of filtered toxic conversations.
 - **toxic_articles.csv**: Contains 15 toxic articles from the CNN dataset.
+- **toxic_articles_summary_scores.csv**: Injected articles and summary scores.
 - **data\Entity Recognition in Resumes.json**: Dataset for entity recognition in resumes.
 - **data\Resume.csv**: CSV file of resumes dataset from Kaggle.
 - **data\toxic_comments(1-4).csv**: Sample toxic comments.
